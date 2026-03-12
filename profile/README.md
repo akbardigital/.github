@@ -1,7 +1,5 @@
 # 🚀 Welcome to Akbar Digital
 
-![Akbar Digital Banner](https://via.placeholder.com/1200x300/0f172a/38bdf8?text=Akbar+Digital+-+Transforming+Ideas+Into+Code)
-
 <div align="center">
   <p><strong>Your Partner in Digital Growth & Custom Development 💻</strong></p>
   <p>Based in Semarang, Indonesia 🇮🇩</p>
@@ -45,17 +43,6 @@ We choose the right tools for the right job. Here are the technologies we use to
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
----
-
-## 📈 Organization Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akbardigital&show_icons=true&theme=radical&hide_border=true" alt="Akbar Digital GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbardigital&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
-</div>
-
-<br>
 
 <div align="center">
   <i>"Great things in business are never done by one person; they're done by a team of people."</i>
